@@ -9,6 +9,8 @@
 
 body {
     min-width: 480px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
 header {
@@ -62,8 +64,9 @@ ul li {
 
 @media only screen and (min-width: 768px) {
     body {
-        margin: 16px;
         max-width: 960px;
+        margin: 0 auto;
+        padding: 16px;
     }
 
     header {
